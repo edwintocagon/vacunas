@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "ci": "1007788998",
+      "name": "Ana Maria",
+      "lastname": "Lopez Lopez",
+      "email": "lopez@gmail.com",
+      "id": 1657151812542,
+      "user": "lopez@gmail.com",
+      "password": "1007788998",
+      "birthdate": "",
+      "address": "asdvxvvxv",
+      "phone": "0959882907",
+      "vaccinationstatus": "vacunado",
+      "typeofvaccine": "Sputnik",
+      "vaccinationdate": "2022-07-20",
+      "numberofdoses": "1"
+    },
+    {
+      "ci": "1007788995",
+      "name": "Edwin Mauricio ",
+      "lastname": "Tocagon Pastaz",
+      "email": "edwintc@gmail.com",
+      "id": 1657264132242,
+      "user": "edwintc@gmail.com",
+      "password": "1007788995",
+      "birthdate": "",
+      "address": "",
+      "phone": "",
+      "vaccinationstatus": "",
+      "typeofvaccine": "",
+      "vaccinationdate": "",
+      "numberofdoses": ""
+    },
+    {
+      "ci": "1007788991",
+      "name": "Lucas",
+      "lastname": "Vasquez",
+      "email": "lucasva@gmail.com",
+      "id": 1657282415458,
+      "user": "lucasva@gmail.com",
+      "password": "1007788991",
+      "birthdate": "1997-05-29",
+      "address": "asdvxvvxv",
+      "phone": "0959882907",
+      "vaccinationstatus": "vacunado",
+      "typeofvaccine": "Pfizer",
+      "vaccinationdate": "2022-07-02",
+      "numberofdoses": "1"
+    }
+  ]
+}

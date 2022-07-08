@@ -1,0 +1,23 @@
+/* m_s1: message_style1 */
+.m_s1 {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(233, 62, 62);
+}
+
+.m_s2 {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(114, 206, 39);
+}
+
+.m_s3 {
+  border-color: red !important;
+  border-style: solid;
+}

@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+.form-group label {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.btn-save {
+  background-color: #00adee;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: #002855;
+  }
+}
